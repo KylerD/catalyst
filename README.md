@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Kainos Catalyst Next Template (Kyle Davidson)
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and setup with the following libraries:
+
+- [Daisy UI](https://daisyui.com/) - A tailwind style library which is great for simple components and consistent theming
+- [shadcn/ui](https://ui.shadcn.com/) - A tailwind component library which is great for more complicated components
+
+Typically, only one of these libraries would be necessary, but they can be combined together for faster prototyping.
+
+- [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction) - Vercel AI SDK provides a set of utility components over common AI interactions, particuarly with chat capabilities.
+
+- [Zod](https://zod.dev/) - Form Validation
+- [Zustand](https://zustand.docs.pmnd.rs/) - State Mgmt
 
 ## Getting Started
 
